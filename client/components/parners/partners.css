@@ -1,0 +1,25 @@
+.partnersContainer {
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+   margin: 50px 0;
+}
+.partner {
+    margin: 50px 0;
+}
+.partnersTittle {
+    font-size: 32px;
+    font-weight: 600;
+    text-shadow: 0 0 13px slategrey;
+    text-align: center;
+    color: slategray;
+    margin: 50px 0;
+}
+.partnerPhoto {
+    margin: 20px;
+}
+.partnersContainerForPhoto {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
